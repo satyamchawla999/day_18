@@ -1,0 +1,34 @@
+.productItem {
+    width: 48%;
+    height: 150px;
+    border-radius: 1px solid black;
+    display: flex;
+    flex-wrap: wrap;
+    margin-right:5px ;
+    margin-bottom: 10px;
+    box-shadow: rgba(0, 0, 0, 0.15) 2.4px 2.4px 3.2px;
+}
+
+.imageBlock {
+    height: 150px;
+    width: 50%;
+}
+
+.imageBlock img {
+    height: 150px;
+    width: 100%;
+}
+
+.infoBlock p{
+    padding: 0;
+    margin: 5px 5px;
+}
+
+.itemButton {
+    background-color: red;
+    height: 20px;
+    border: none;
+    border-radius: 3px;
+    color: white;
+    margin-left: 5px;
+}

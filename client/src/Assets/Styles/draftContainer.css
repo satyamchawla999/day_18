@@ -1,0 +1,10 @@
+.draftContainer {
+    height: inherit;
+    width: 100%;
+
+    display: flex;
+    flex-direction: column;
+    overflow-y: scroll;
+    border-right: 1px solid black;
+    padding-right: 10px;
+}
